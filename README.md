@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maxg-dev, and im currently studing computer science on Santa María University from Chile
+- 👀 I’m interested in working as a software developer
+- 🌱 I’m currently learning pl/sql and dart for mobile development
+- 💞️ I’m looking to collaborate on any project ideas
+- 📫 You can find me on www.linkedin.com/in/maximilianogalvez
